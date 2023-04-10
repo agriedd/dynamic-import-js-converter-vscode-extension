@@ -13,11 +13,19 @@ from static to dynamic import, choose separate line of the code to convert or an
 To use this extension 
 `Ctrl`+`Shift`+`P` (Windows) then Choose or find *Convert: Dynamic To Static Import*
 
+### Install
+
+clone this repo and install vsce globaly
+then run command below on cli to build vsix file extension
+```cli
+vsce package
+```
+
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Requirements
 
-No need for requirement, jus build and using this extension
+No need for requirement, just build and using this extension
 
 ## Extension Settings
 
